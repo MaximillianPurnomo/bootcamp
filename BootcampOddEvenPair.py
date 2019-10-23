@@ -29,5 +29,5 @@ for item in range(len(numList)):
 # Odd sum
 print("List of odd sum:", findOdd(numList))
 
-# Even sum
+# Even product
 print("List of even product:", findEven(numList))
